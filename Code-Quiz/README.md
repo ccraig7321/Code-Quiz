@@ -3,7 +3,6 @@
 
 Test your knowledge of Javascript!
 
-![Image of ](images/PasswordGenerator.png)
 
 ___
 
