@@ -1,0 +1,20 @@
+/* Aligns header 3 to the center */
+#quiz h3{
+    width: 200px;
+    margin: 0 auto;
+}
+/* Dimensions for quiz */
+#quiz p{
+    width: 400px;
+    margin: 0 auto;
+}
+/* Places start quiz button in center of screen */
+#quiz button.startQuiz{
+    margin: 0 auto;
+    display: block;
+}
+
+#breadcrumb{
+    margin: 0 auto;
+    display: block
+}
