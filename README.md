@@ -33,6 +33,12 @@ After the user enters their initials, it will be stored in their computer's loca
 If the user would like to try again, they would just need to click the "Try Again" button to begin the quiz again!
 ___
 
+## Link to Project
+
+https://ccraig7321.github.io/Code-Quiz/
+
+___
+
 ## Technologies
 
 - HTML
